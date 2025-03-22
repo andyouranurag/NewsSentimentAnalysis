@@ -13,5 +13,5 @@ This project analyzes the sentiment of news articles about a given company and c
 ## Installation & Setup  
 1️⃣ **Clone the repository:**  
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/NewsSentimentAnalysis.git
+git clone https://github.com/andyouranurag/NewsSentimentAnalysis.git
 cd NewsSentimentAnalysis

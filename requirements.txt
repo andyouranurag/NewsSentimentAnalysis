@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+nltk
+vaderSentiment
+gtts
+googletrans==4.0.0-rc1
+pandas
+matplotlib
+seaborn
+streamlit
